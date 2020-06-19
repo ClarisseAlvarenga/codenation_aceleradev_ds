@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skipped="0" tests="1" time="0.779"><testcase classname="" file="test_submit.py" name="test_submit" time="0.000"><error message="collection failure">E   NameError: name &apos;get_ipython&apos; is not defined</error></testcase></testsuite>
